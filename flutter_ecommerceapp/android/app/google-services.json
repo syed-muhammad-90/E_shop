@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002794605710",
+    "project_id": "ecommerceapp-2c862",
+    "storage_bucket": "ecommerceapp-2c862.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002794605710:android:6f6beaa867918cb7e2bddf",
+        "android_client_info": {
+          "package_name": "com.shaheryarecommece.flutter_ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002794605710-rumb264j49fr6sp39661fe0fjkqqiaop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCro6IG9ReQ5mklF7LEhM3Zj_3Z-Ey3lTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002794605710-rumb264j49fr6sp39661fe0fjkqqiaop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
